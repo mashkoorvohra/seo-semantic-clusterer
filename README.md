@@ -1,7 +1,8 @@
 # 🧠 Provider-Agnostic Semantic Keyword Clusterer & Intent Classifier
 
 **Live App:** [https://seo-semantic-clusterer.streamlit.app/](https://seo-semantic-clusterer.streamlit.app/)
-
+> **Install as an AI Agent Skill (Claude Code / Cursor / MCP):** Get the free ready-to-run skill with live DataForSEO keyword volume integration on [Agensi](https://agensi.io/skills/seo-semantic-clusterer).
+> 
 A scalable keyword grouping and topical authority architecture tool. Combines local hierarchical clustering (`AgglomerativeClustering`) with character n-gram TF-IDF or neural embeddings to organize raw keyword exports into Pillar Page hubs and classify search intent (`Informational`, `Commercial`, `Transactional`).
 
 ## Key Capabilities
